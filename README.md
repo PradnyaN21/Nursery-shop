@@ -9,14 +9,25 @@ The main objective of this project is to provide an easy and convenient way for 
 🚀 Features
 
 🌿 Browse indoor and outdoor plants
+
 🔍 Search and filter products
+
 🛒 Add to cart functionality
+
 💳 Simple checkout process
+
+
 👤 User-friendly interface
+
 📱 Responsive design for mobile and desktop
 
 
+
 🛠️ Technologies Used
+
+
 Frontend: HTML, CSS
+
 Backend: PHP
+
 Database: MySQL
